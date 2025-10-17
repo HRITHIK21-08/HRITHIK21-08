@@ -114,146 +114,32 @@
    //  ||\ \
 
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="980" height="220" viewBox="0 0 980 220" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <!-- glow filter -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- car shape as symbol -->
-    <g id="ferrariCar">
-      <rect x="-10" y="-6" rx="3" ry="3" width="20" height="12" fill="#e10600" />
-      <rect x="-7" y="-10" width="14" height="4" fill="#111" opacity="0.15"/>
-      <circle cx="-6" cy="8" r="2" fill="#111"/>
-      <circle cx="6" cy="8" r="2" fill="#111"/>
-    </g>
-
-    <!-- path for the Silverstone-ish circuit -->
-    <path id="trackPath"
-      d="M80,110
-         C140,30 300,30 360,110
-         C410,180 560,180 620,110
-         C680,40 820,40 900,110
-         C840,150 720,150 660,120
-         C620,110 520,120 480,80
-         C440,40 300,40 240,80
-         C180,120 120,120 80,110 Z" 
-      fill="none" stroke="none"/>
-
-    <!-- dashed path used for trailing stroke -->
-    <path id="trailPath"
-      d="M80,110
-         C140,30 300,30 360,110
-         C410,180 560,180 620,110
-         C680,40 820,40 900,110
-         C840,150 720,150 660,120
-         C620,110 520,120 480,80
-         C440,40 300,40 240,80
-         C180,120 120,120 80,110 Z" 
-      fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  </defs>
-
-  <!-- background transparent; keep dark-mode friendly -->
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <!-- track base -->
-  <g transform="">
-    <path d="M80,110
-         C140,30 300,30 360,110
-         C410,180 560,180 620,110
-         C680,40 820,40 900,110
-         C840,150 720,150 660,120
-         C620,110 520,120 480,80
-         C440,40 300,40 240,80
-         C180,120 120,120 80,110 Z"
-      fill="none" stroke="#1f2a30" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
-
-    <!-- inner track to give lane -->
-    <path d="M80,110
-         C140,30 300,30 360,110
-         C410,180 560,180 620,110
-         C680,40 820,40 900,110
-         C840,150 720,150 660,120
-         C620,110 520,120 480,80
-         C440,40 300,40 240,80
-         C180,120 120,120 80,110 Z"
-      fill="none" stroke="#11161a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
-
-    <!-- glowing highlight on track edges -->
-    <path d="M80,110
-         C140,30 300,30 360,110
-         C410,180 560,180 620,110
-         C680,40 820,40 900,110
-         C840,150 720,150 660,120
-         C620,110 520,120 480,80
-         C440,40 300,40 240,80
-         C180,120 120,120 80,110 Z"
-      fill="none" stroke="#2a3038" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
-
-    <!-- moving trail effect: animated dash on the trailPath -->
-    <use xlink:href="#trailPath" stroke="#ff6b6b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" filter="url(#glow)"/>
-    <use xlink:href="#trailPath" stroke="#ffb4b4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.8">
-      <animate attributeName="stroke-dasharray" dur="6s" repeatCount="indefinite"
-               values="1 1200;800 400;1 1200"/>
-      <animate attributeName="stroke-dashoffset" dur="6s" repeatCount="indefinite"
-               values="0;-1200;0"/>
-    </use>
-
-    <!-- small dashed highlight racing ahead (secondary trail) -->
-    <use xlink:href="#trailPath" stroke="#ffd6d6" stroke-width="2" stroke-linecap="round" opacity="0.9">
-      <animate attributeName="stroke-dasharray" dur="3s" repeatCount="indefinite"
-               values="1 1000;300 700;1 1000"/>
-      <animate attributeName="stroke-dashoffset" dur="3s" repeatCount="indefinite"
-               values="0;-1000;0"/>
-    </use>
-
-    <!-- place Ferrari car following path -->
-    <g filter="url(#glow)">
-      <g>
-        <path id="carPath" d="M80,110
-         C140,30 300,30 360,110
-         C410,180 560,180 620,110
-         C680,40 820,40 900,110
-         C840,150 720,150 660,120
-         C620,110 520,120 480,80
-         C440,40 300,40 240,80
-         C180,120 120,120 80,110 Z" fill="none" />
-
-        <g id="movingCar">
-          <use xlink:href="#ferrariCar" />
-          <!-- slight tilt animation to mimic steering -->
-          <animateTransform attributeName="transform" type="rotate" values="0;6;-6;4;-4;0" dur="1.8s" repeatCount="indefinite"/>
-        </g>
-
-        <!-- animateMotion to move the car along the path -->
-        <animateMotion xlink:href="#movingCar" dur="6s" repeatCount="indefinite" rotate="auto">
-          <mpath xlink:href="#carPath" />
-        </animateMotion>
-      </g>
-    </g>
-
-    <!-- center title / label -->
-    <g transform="translate(490,198)" text-anchor="middle" >
-      <text x="0" y="0" font-family="JetBrains Mono, monospace" font-size="16" fill="#cfefff" opacity="0.95">🏁 Hrithik Tej — The Developer's Circuit</text>
-      <text x="0" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#98d6ff" opacity="0.55">Silverstone — lap shows speed, precision, and focus</text>
-    </g>
-
-  </g>
-</svg>
-" alt="F1 animation" />
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HRITHIK21-08/HRITHIK21-08/output/github-f1.svg" 
-       alt="Silverstone F1 Circuit - Hrithik Tej" />
+  <img src="https://media.tenor.com/sgI5rL-LPOcAAAAC/formula1-f1.gif" width="400" alt="F1 GIF" />
 </p>
 
+💬 Favorite Teams: **Mercedes-AMG Petronas**, **McLaren**, **Ferrari**  
+🏆 Favorite Drivers: **Hamilton**, **Norris**, **Leclerc**
+
+</div>
+
+---
+
+### 💬 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_Tej_Chilaka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/)
+[![GitHub](https://img.shields.io/badge/GitHub-HRITHIK21--08-black?style=for-the-badge&logo=github)](https://github.com/HRITHIK21-08)
+[![Email](https://img.shields.io/badge/Email-hrithiktejchilaka%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithiktejchilaka@gmail.com)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <p align="center">✨ Crafted with passion, precision, and speed — just like F1 ✨</p>
