@@ -1,4 +1,4 @@
-<!-- Futuristic GitHub Profile README for Hrithik Tej Chilaka -->
+<!-- 🚀 Futuristic GitHub Profile README for Hrithik Tej Chilaka -->
 
 <h1 align="center">👋 Hey, I'm Hrithik Tej Chilaka</h1>
 
@@ -11,10 +11,9 @@
 ### 💡 About Me
 
 🎓 B.Tech CSE @ **SRM University, AP**  
-💻 Building **smart, voice-enabled systems** that blend AI + Web + Cloud  
+💻 Building **smart, voice-enabled systems** that merge AI + Web + Cloud  
 🌱 Currently mastering **React.js**, **Node.js**, and **AWS Cloud**  
 💬 Ask me about **Web Apps**, **AI Projects**, or **System Tools**  
-💖 Passionate about tech, innovation, and meaningful impact  
 ⚡ Motto: *“Code with logic, build with purpose.”*
 
 ---
@@ -23,8 +22,8 @@
 
 - ⚙️ Preparing for **Google Summer of Code (GSoC)**  
 - 🚀 Developing **Smart Public Safety & Accessibility System (SPSAS)** for **Samsung Solve for Tomorrow 2025**  
-- 🧩 Exploring **AI integrations** with real-time web automation  
-- ☁️ Learning **AWS**, **serverless systems**, and **API design**
+- 🧩 Exploring **AI-powered web automation & smart interfaces**  
+- ☁️ Learning **AWS**, **serverless backends**, and **API optimization**
 
 ---
 
@@ -59,15 +58,16 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🚀 Featured Projects
 
-| 🚀 Project | 💬 Description | 🛠️ Tech |
+| 🧩 Project | 💬 Description | 🛠️ Tech |
 |-------------|----------------|----------|
-| **Virtual Room Assistant** | Voice-controlled virtual environment synced with web UI | Python, Flask, JS, Web Speech API |
-| **Home Automation System** | Smart home web interface + Python voice commands | React, Tailwind, Flask |
-| **SPSAS (Samsung Solve for Tomorrow)** | AI-based system for public safety & accessibility | AI, IoT, Cloud, Web |
-| **LoveProject x BirthdayWorld** | Creative interactive experience in a single HTML file | HTML, JS, CSS, Animations |
-| **Shape Recognition AI** | ML model for recognizing geometric shapes | Python, OpenCV, TensorFlow |
+| **React Quick Gems** | A lightning-fast React playground with reusable UI snippets. | React.js, TypeScript, Vite |
+| **Smart Home Automation System** | Voice-controlled home automation dashboard with Python assistant. | Flask, Python, JS |
+| **Online Grocery Store** | Modern e-commerce simulation with user-friendly design. | HTML, CSS, JS |
+| **Library Management System (C++)** | Console-based library management system for students. | C++ |
+| **Battle Ship Blitz (C Game)** | Classic battleship logic game with a modern C twist. | C |
+| **Virtual Room Assistant** | Interactive AI-powered virtual room UI. | Flask, JS, Web Speech API |
 
 ---
 
@@ -79,23 +79,23 @@
 
 ---
 
-### 🏎️ F1 Mode: Speed, Precision & Focus
+### 🏎️ Formula 1 Mode: Speed, Precision & Focus
 
-> “In coding and racing — milliseconds matter.”
+> “In both racing and coding — milliseconds define champions.”
 
 <div align="center">
 
-🏁 Big F1 enthusiast — love watching every Grand Prix weekend!  
-🔥 My favorite part? The mix of speed, engineering, and strategy — just like software design.  
-🧠 Coding feels a lot like racing — you debug fast, learn from every turn, and aim for the perfect lap.  
+🏁 F1 isn’t just a sport to me — it’s *engineering in motion.*  
+💻 Coding feels like being on the track — constant focus, micro-adjustments, and performance tuning.  
+⚙️ Just like pit stops, debugging is about timing, precision, and teamwork.
+
 
 <p align="center">
   <img src="https://media.tenor.com/sgI5rL-LPOcAAAAC/formula1-f1.gif" width="400" alt="F1 GIF" />
 </p>
 
-💬 Favorite Teams: **Mercedes-AMG Petronas**, **McLaren**, and **Ferrari**  
-⚙️ Drivers I admire: **Hamilton**, **Norris**, **Leclerc**  
-🏆 Goal: Keep improving my performance — both on keyboard and in life.
+💬 Favorite Teams: **Mercedes-AMG Petronas**, **McLaren**, **Ferrari**  
+🏆 Favorite Drivers: **Hamilton**, **Norris**, **Leclerc**
 
 </div>
 
@@ -112,9 +112,12 @@
 </div>
 
 ---
+    ______
+   //  ||\ \
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">✨ Crafted with passion, curiosity, and clean code ✨</p>
+<p align="center">✨ Crafted with passion, precision, and speed — just like F1 ✨</p>
