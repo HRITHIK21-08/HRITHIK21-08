@@ -1,4 +1,6 @@
-name: 🏁 Generate F1 Silverstone SVG
+- name: Write SVG file
+  run: |
+    cat > output/github-f1.svg <<'SVG'
 
 on:
   schedule:
@@ -137,3 +139,11 @@ SVG
           message: "🏁 chore: update Silverstone F1 svg"
           author_name: "github-actions[bot]"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
+
+          - name: Write SVG file
+  run: |
+    echo '<?xml version="1.0" encoding="UTF-8" standalone="no"?>' > output/github-f1.svg
+    echo '<svg xmlns="http://www.w3.org/2000/svg" width="980" height="220" viewBox="0 0 980 220">' >> output/github-f1.svg
+    echo '<text x="50%" y="50%" font-size="20" fill="#e10600" text-anchor="middle" dominant-baseline="middle">🏁 Hrithik Tej — The Developer’s Circuit</text>' >> output/github-f1.svg
+    echo '</svg>' >> output/github-f1.svg
+
