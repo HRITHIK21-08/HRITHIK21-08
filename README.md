@@ -79,13 +79,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏎️ F1 Mode: Speed, Precision & Focus
+
+> “In coding and racing — milliseconds matter.”
 
 <div align="center">
 
-![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRITHIK21-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK21-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-![GitHub Streak](https://streak-stats.demolab.com?user=HRITHIK21-08&theme=tokyonight&hide_border=true&border_radius=10)
+🏁 Big F1 enthusiast — love watching every Grand Prix weekend!  
+🔥 My favorite part? The mix of speed, engineering, and strategy — just like software design.  
+🧠 Coding feels a lot like racing — you debug fast, learn from every turn, and aim for the perfect lap.  
+
+<p align="center">
+  <img src="https://media.tenor.com/sgI5rL-LPOcAAAAC/formula1-f1.gif" width="400" alt="F1 GIF" />
+</p>
+
+💬 Favorite Teams: **Mercedes-AMG Petronas**, **McLaren**, and **Ferrari**  
+⚙️ Drivers I admire: **Hamilton**, **Norris**, **Leclerc**  
+🏆 Goal: Keep improving my performance — both on keyboard and in life.
 
 </div>
 
