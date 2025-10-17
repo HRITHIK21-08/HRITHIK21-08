@@ -14,14 +14,13 @@
 💻 Building **smart, voice-enabled systems** that merge AI + Web + Cloud  
 🌱 Currently mastering **React.js**, **Node.js**, and **AWS Cloud**  
 💬 Ask me about **Web Apps**, **AI Projects**, or **System Tools**  
-⚡ Motto: *“Code with logic, build with purpose.”*
+⚡ Motto: *“I live my life a quarter mile at a time.”*
 
 ---
 
 ### 🧠 Current Focus
 
 - ⚙️ Preparing for **Google Summer of Code (GSoC)**  
-- 🚀 Developing **Smart Public Safety & Accessibility System (SPSAS)** for **Samsung Solve for Tomorrow 2025**  
 - 🧩 Exploring **AI-powered web automation & smart interfaces**  
 - ☁️ Learning **AWS**, **serverless backends**, and **API optimization**
 
@@ -94,8 +93,8 @@
   <img src="https://media.tenor.com/sgI5rL-LPOcAAAAC/formula1-f1.gif" width="400" alt="F1 GIF" />
 </p>
 
-💬 Favorite Teams: **Mercedes-AMG Petronas**, **McLaren**, **Ferrari**  
-🏆 Favorite Drivers: **Hamilton**, **Norris**, **Leclerc**
+💬 Favorite Teams: **Mercedes-AMG Petronas**, **Ferrari**  
+🏆 Favorite Driver: **Hamilton**
 
 </div>
 
@@ -106,7 +105,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_Tej_Chilaka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/)
-[![GitHub](https://img.shields.io/badge/GitHub-HRITHIK21--08-black?style=for-the-badge&logo=github)](https://github.com/HRITHIK21-08)
 [![Email](https://img.shields.io/badge/Email-hrithiktejchilaka%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithiktejchilaka@gmail.com)
 
 </div>
@@ -117,7 +115,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-f1.svg" alt="F1 animation" />
 </p>
 
 <p align="center">✨ Crafted with passion, precision, and speed — just like F1 ✨</p>
