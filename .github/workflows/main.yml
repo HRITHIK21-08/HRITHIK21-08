@@ -132,14 +132,6 @@ jobs:
 </svg>
 SVG
 
-      - name: Commit SVG
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "output/github-f1.svg"
-          message: "🏁 chore: update Silverstone F1 svg"
-          author_name: "github-actions[bot]"
-          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
-
           - name: Write SVG file
   run: |
     echo '<?xml version="1.0" encoding="UTF-8" standalone="no"?>' > output/github-f1.svg
