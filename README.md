@@ -250,4 +250,10 @@
 " alt="F1 animation" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HRITHIK21-08/HRITHIK21-08/output/github-f1.svg" 
+       alt="Silverstone F1 Circuit - Hrithik Tej" />
+</p>
+
+
 <p align="center">✨ Crafted with passion, precision, and speed — just like F1 ✨</p>
