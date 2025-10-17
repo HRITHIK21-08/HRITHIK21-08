@@ -2,7 +2,7 @@ name: 🏁 Generate F1 Silverstone SVG
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # daily at 01:00 UTC (change if you want)
+    - cron: "0 1 * * *"  # daily at 01:00 UTC 
   workflow_dispatch:
 
 jobs:
