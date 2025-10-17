@@ -1,63 +1,110 @@
-# 👋 Hey, I'm Hrithik Tej Chilaka  
+<!-- Futuristic GitHub Profile README for Hrithik Tej Chilaka -->
 
-🎓 B.Tech CSE @ SRM University, AP  
-💻 Passionate about building smart, scalable, and human-centered software  
-🌱 Currently exploring **Full Stack Development**, **AI Integrations**, and **Cloud Solutions**  
-⚡ Always curious to learn, experiment, and create something meaningful  
+<h1 align="center">👋 Hey, I'm Hrithik Tej Chilaka</h1>
 
----
-
-## 🧠 What I’ve Been Working On
-
-- 🏗️ Building **voice-controlled automation systems** combining Python & modern web tech  
-- 🧩 Exploring **React.js**, **Node.js**, and **TypeScript** for interactive UIs  
-- ☁️ Learning advanced AWS concepts – **EC2**, **S3**, **VPC**, **IAM**, and more  
-- 🔐 Hands-on with **Cybersecurity** and **Data Analytics** simulations on Forage  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+%26+Cloud+Explorer;Innovator+at+Heart;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 💡 About Me
 
-**Languages:**  
-C | C++ | Python | Java | JavaScript | TypeScript | SQL  
-
-**Frontend:**  
-React.js | HTML | CSS | Tailwind CSS | Framer Motion  
-
-**Backend:**  
-Node.js (Learning) | Flask | Express  
-
-**Cloud & Tools:**  
-AWS | Git | GitHub | VS Code | Vite | Xcode  
-
-**Core Skills:**  
-Data Structures & Algorithms | Object-Oriented Programming | Web Development | Problem Solving  
+🎓 B.Tech CSE @ **SRM University, AP**  
+💻 Building **smart, voice-enabled systems** that blend AI + Web + Cloud  
+🌱 Currently mastering **React.js**, **Node.js**, and **AWS Cloud**  
+💬 Ask me about **Web Apps**, **AI Projects**, or **System Tools**  
+💖 Passionate about tech, innovation, and meaningful impact  
+⚡ Motto: *“Code with logic, build with purpose.”*
 
 ---
 
-## 🏆 Certifications
+### 🧠 Current Focus
 
-- ✅ **Deloitte Australia** – Data Analytics Job Simulation (Forage)  
-- ✅ **Tata Cybersecurity** – Security Analyst Job Simulation (Forage)  
-- ✅ **AWS APAC** – Solutions Architecture Job Simulation (Forage)
-
----
-
-## 💡 Current Focus
-
-- ⚙️ Google Summer of Code (GSoC) Preparation  
-- 🧠 Building advanced AI-powered interfaces  
-- 🛠️ Improving **Smart Public Safety & Accessibility System (SPSAS)** – Samsung Solve for Tomorrow 2025 project  
+- ⚙️ Preparing for **Google Summer of Code (GSoC)**  
+- 🚀 Developing **Smart Public Safety & Accessibility System (SPSAS)** for **Samsung Solve for Tomorrow 2025**  
+- 🧩 Exploring **AI integrations** with real-time web automation  
+- ☁️ Learning **AWS**, **serverless systems**, and **API design**
 
 ---
 
-## 📫 Connect With Me
+### 🧰 Tech Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/HRITHIK21-08)  
+<div align="center">
+
+#### 💬 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧩 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-⭐ *"Code with logic, build with purpose."*
+### 🧩 Featured Projects
 
-update: refreshed profile README with latest tech stack and projects
+| 🚀 Project | 💬 Description | 🛠️ Tech |
+|-------------|----------------|----------|
+| **Virtual Room Assistant** | Voice-controlled virtual environment synced with web UI | Python, Flask, JS, Web Speech API |
+| **Home Automation System** | Smart home web interface + Python voice commands | React, Tailwind, Flask |
+| **SPSAS (Samsung Solve for Tomorrow)** | AI-based system for public safety & accessibility | AI, IoT, Cloud, Web |
+| **LoveProject x BirthdayWorld** | Creative interactive experience in a single HTML file | HTML, JS, CSS, Animations |
+| **Shape Recognition AI** | ML model for recognizing geometric shapes | Python, OpenCV, TensorFlow |
+
+---
+
+### 🏆 Certifications
+
+✅ **Deloitte Australia** – Data Analytics Job Simulation (Forage)  
+✅ **Tata Cybersecurity** – Security Analyst Job Simulation (Forage)  
+✅ **AWS APAC** – Solutions Architecture Job Simulation (Forage)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Hrithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRITHIK21-08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK21-08&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=HRITHIK21-08&theme=tokyonight&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+### 💬 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_Tej_Chilaka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/)
+[![GitHub](https://img.shields.io/badge/GitHub-HRITHIK21--08-black?style=for-the-badge&logo=github)](https://github.com/HRITHIK21-08)
+[![Email](https://img.shields.io/badge/Email-hrithiktejchilaka%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithiktejchilaka@gmail.com)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">✨ Crafted with passion, curiosity, and clean code ✨</p>
