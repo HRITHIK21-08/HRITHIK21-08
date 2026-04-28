@@ -1,150 +1,115 @@
-<!-- 🚀 Futuristic GitHub Profile README for Hrithik Tej Chilaka -->
-
-<h1 align="center">👋 Hey, I'm Hrithik Tej Chilaka</h1>
+<!-- 🔥 ELITE F1 THEMED README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+%26+Cloud+Explorer;Innovator+at+Heart;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8002D,100:000000&height=220&section=header&text=HRITHIK%20TEJ%20CHILAKA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20%2B%20Cloud%20Engineer&descAlignY=55&descAlign=50"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=E8002D&center=true&vCenter=true&width=600&lines=Building+Production+Systems;AWS+%7C+Backend+%7C+AI;Voice+%2B+Cloud+Integrations;Always+Optimizing+Performance"/>
+</p>
+
+<p align="center">
+⚡ Engineering in motion — on the track and in the code  
 </p>
 
 ---
 
-### 💡 About Me
+## 🧠 ABOUT  
 
-🎓 B.Tech CSE @ **SRM University, AP**  
-💻 Building **smart, voice-enabled systems** that merge AI + Web + Cloud  
-🌱 Currently mastering **React.js**, **Node.js**, and **AWS Cloud**  
-💬 Ask me about **Web Apps**, **AI Projects**, or **System Tools**  
-⚡ Motto: *“I live my life a quarter mile at a time.”*
-
----
-
-### 🧠 Current Focus
-
-- ⚙️ Preparing for **Google Summer of Code (GSoC)**  
-- 🧩 Exploring **AI-powered web automation & smart interfaces**  
-- ☁️ Learning **AWS**, **serverless backends**, and **API optimization**
+- 💻 I build **real-world full stack + cloud systems**
+- ☁️ Strong in **AWS architecture (serverless + scalable backends)**
+- ⚙️ Focus on **APIs, backend systems & system design**
+- 🤖 Building **AI + voice-enabled applications**
+- 🎯 Target: **GSoC + high-impact engineering roles**
 
 ---
 
-### 🧰 Tech Arsenal
-
-<div align="center">
-
-#### 💬 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🧩 Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EA4C89?style=for-the-badge&logo=framer&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| 🧩 Project | 💬 Description | 🛠️ Tech |
-|-------------|----------------|----------|
-| **React Quick Gems** | A lightning-fast React playground with reusable UI snippets. | React.js, TypeScript, Vite |
-| **Smart Home Automation System** | Voice-controlled home automation dashboard with Python assistant. | Flask, Python, JS |
-| **Online Grocery Store** | Modern e-commerce simulation with user-friendly design. | HTML, CSS, JS |
-| **Library Management System (C++)** | Console-based library management system for students. | C++ |
-| **Battle Ship Blitz (C Game)** | Classic battleship logic game with a modern C twist. | C |
-| **Virtual Room Assistant** | Interactive AI-powered virtual room UI. | Flask, JS, Web Speech API |
-
----
-
-### 🏆 Certifications
-
-✅ **Deloitte Australia** – Data Analytics Job Simulation (Forage)  
-✅ **Tata Cybersecurity** – Security Analyst Job Simulation (Forage)  
-✅ **AWS APAC** – Solutions Architecture Job Simulation (Forage)
-
----
-
-### 🏎️ Formula 1 Mode: Speed, Precision & Focus
-
-> “In both racing and coding — milliseconds define champions.”
-
-<div align="center">
-
-🏁 F1 isn’t just a sport to me — it’s *engineering in motion.*  
-💻 Coding feels like being on the track — constant focus, micro-adjustments, and performance tuning.  
-⚙️ Just like pit stops, debugging is about timing, precision, and teamwork.
-
+## ⚙️ TECH STACK  
 
 <p align="center">
-  <img src="https://media.tenor.com/sgI5rL-LPOcAAAAC/formula1-f1.gif" width="400" alt="F1 GIF" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,react,nodejs,flask,mongodb,aws,git,github,html,css,tailwind&theme=dark"/>
+
 </p>
 
-💬 Favorite Teams: **Mercedes-AMG Petronas**, **Ferrari**  
-🏆 Favorite Driver: **Hamilton**
+---
 
-</div>
+## 🚀 PROJECTS  
+
+### 🔴 Smart Grievance System  
+Full AWS production architecture  
+`Lambda • API Gateway • DynamoDB • S3 • CloudWatch • SNS • Cognito`
 
 ---
 
-### 💬 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_Tej_Chilaka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/)
-[![Email](https://img.shields.io/badge/Email-hrithiktejchilaka%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithiktejchilaka@gmail.com)
-
-</div>
+### 🔴 Smart Home Automation  
+Voice-controlled system  
+`Python • Flask • Web UI`
 
 ---
-    ______
-   //  ||\ \
 
+### 🔴 Virtual Room Assistant  
+AI interactive interface  
+`Speech Recognition • Web Systems`
 
+---
+
+### 🔴 Core Systems  
+- Library Management System (C++)  
+- Battleship Game (C)  
+
+---
+
+## 🏆 CERTIFICATIONS  
+
+- 🟠 AWS Certified Cloud Practitioner  
+- 🔴 Oracle Certified Professional: Java SE 17 Developer  
+- 🔵 Linux Bash Shell Scripting (Coursera – Packt)  
+- 🟣 Deloitte – Data Analytics  
+- 🟣 Tata – Cybersecurity  
+- 🟣 AWS APAC – Solutions Architecture  
+
+---
+
+## 🏎️ PERFORMANCE DASHBOARD  
 
 <p align="center">
-  <img src="https://media.tenor.com/sgI5rL-LPOcAAAAC/formula1-f1.gif" width="400" alt="F1 GIF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HRITHIK21-08&show_icons=true&theme=radical&border_color=E8002D&title_color=E8002D&icon_color=E8002D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HRITHIK21-08&theme=radical&border=E8002D"/>
 </p>
 
-💬 Favorite Teams: **Mercedes-AMG Petronas**, **McLaren**, **Ferrari**  
-🏆 Favorite Drivers: **Hamilton**, **Norris**, **Leclerc**
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK21-08&layout=compact&theme=radical&border_color=E8002D&title_color=E8002D"/>
+</p>
 
 ---
 
-### 💬 Let's Connect
+## 🏁 FORMULA 1 MODE  
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrithik_Tej_Chilaka-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/)
-[![GitHub](https://img.shields.io/badge/GitHub-HRITHIK21--08-black?style=for-the-badge&logo=github)](https://github.com/HRITHIK21-08)
-[![Email](https://img.shields.io/badge/Email-hrithiktejchilaka%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrithiktejchilaka@gmail.com)
+> “Milliseconds decide races. Optimization decides systems.”
 
-</div>
+🏎️ Mercedes AMG • Ferrari • McLaren  
+💻 Coding = precision + performance + zero margin for error  
 
 ---
 
+## 🔗 CONNECT  
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<a href="https://www.linkedin.com/in/hrithik-tej-chilaka-62767835b/">
+<img src="https://img.shields.io/badge/LinkedIn-Hrithik_Tej_Chilaka-E8002D?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:hrithiktejchilaka@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-E8002D?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
-<p align="center">✨ Crafted with passion, precision, and speed — just like F1 ✨</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HRITHIK21-08/HRITHIK21-08/output/github-f1.svg" 
-       alt="Silverstone F1 Circuit - Hrithik Tej" />
-</p>
+---
 
+## ⚡ FINAL  
+
+```txt
+P1 POSITION — Not learning anymore. Building real systems.
