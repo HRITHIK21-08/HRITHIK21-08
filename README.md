@@ -19,7 +19,6 @@
 - 💻 I build **real-world full stack + cloud systems**
 - ☁️ Strong in **AWS architecture (serverless + scalable backends)**
 - ⚙️ Focus on **APIs, backend systems & system design**
-- 🤖 Building **AI + voice-enabled applications**
 - 🎯 Target: **GSoC + high-impact engineering roles**
 
 ---
