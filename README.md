@@ -124,7 +124,7 @@
 |-------|--------------|--------|
 | 🟠 | **AWS Certified Cloud Practitioner** | Amazon Web Services |
 | 🔴 | **Oracle Certified Professional: Java SE 17 Developer** | Oracle Corporation |
-| 🔵 | **Linux Bash Shell Scripting with Real-Life Examples** | Packt · Coursera · [Verify ↗](https://coursera.org/verify/KFOGW1A9FLEH) |
+| 🔵 | **Linux Bash Shell Scripting with Real-Life Examples** | Packt · Coursera |
 | 🟣 | **Data Analytics Job Simulation** | Deloitte Australia · Forage |
 | 🟣 | **Cybersecurity Analyst Job Simulation** | Tata · Forage |
 | 🟣 | **Solutions Architecture Job Simulation** | AWS APAC · Forage |
@@ -142,11 +142,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRITHIK21-08&layout=compact&theme=radical&border_color=E8002D&title_color=E8002D&bg_color=0d0d0d&langs_count=8"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HRITHIK21-08&bg_color=0d0d0d&color=E8002D&line=E8002D&point=ffffff&area=true&hide_border=false&border_color=E8002D" />
-</p>
-
 ---
 
 ## 🏁 FORMULA 1 MODE
@@ -155,8 +150,8 @@
 ╔═══════════════════════════════════════════════════════╗
 ║  RACE CONTROL — HRITHIK'S F1 COCKPIT                 ║
 ╠═══════════════════════════════════════════════════════╣
-║  Teams   : Mercedes-AMG · Scuderia Ferrari · McLaren  ║
-║  Drivers : Lewis Hamilton · Lando Norris · Leclerc    ║
+║  Teams   : Mercedes-AMG · Scuderia Ferrari · RedBull  ║
+║  Drivers : Lewis Hamilton · MAX          · Leclerc    ║
 ║  Pace    : Maximum attack — no backing off            ║
 ╚═══════════════════════════════════════════════════════╝
 ```
